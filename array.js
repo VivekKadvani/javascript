@@ -56,7 +56,7 @@ let fil=bum.filter(num=>num<5)
 console.log(fil)
 console.log(bum)
 
-const sum= bum.reduce((sum,bum)=>{
-    return sum+bum
+const sum= bum1.reduce((sum,bum1)=>{
+    return sum+bum1
 },0)
 console.log(sum)
