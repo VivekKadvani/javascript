@@ -1,0 +1,5 @@
+console.log("this is log")
+console.error("this is error")
+console.assert("assert" !=false)
+console.warn("warning ")
+console.info("this is info tag")
