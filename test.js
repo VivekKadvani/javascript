@@ -1,7 +1,10 @@
 //start file and test node 
-var v = "hello world by vivek";
+var v = "hello world by vivek in";
 console.log(v);
 
+//start file and test node 
+var v = "hello world by vivek in";
+console.log(v.toUpperCase);
 
 //start learning variable   
 let b = 65
