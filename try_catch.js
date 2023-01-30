@@ -6,3 +6,7 @@ try {
 catch (err) {
     console.log( "this is error :"+err)
 } 
+
+finally{
+    console.log("this is always run")
+}
