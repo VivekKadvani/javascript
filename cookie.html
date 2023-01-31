@@ -12,6 +12,10 @@
         let value=prompt("enter value")
         document.cookie= `${key}=${value}`
         alert(document.cookie)
+
+
+        localStorage.setItem("name","vivek")
+        document.write(localStorage.getItem("name"))
     </script>
 </body>
 </html>
