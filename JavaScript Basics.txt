@@ -1,0 +1,46 @@
+JavaScript Basics
+
+Internal Workings of JavaScript (This is important series for understanding JS, please refer diligently):
+Akshay Saini Namaste JavaScript complete series: https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP 
+
+
+Additional References:
+
+Other courses [Optional] (just for reference in case you want to refer):
+https://app.pluralsight.com/paths/skill/javascript-core-language
+https://app.pluralsight.com/library/courses/front-end-web-app-html5-javascript-css/table-of-contents
+
+---------------------------------------------------------------===============================================================================================
+
+
+JavaScript Advance Concepts
+
+Estimated time to learn: 5 days
+
+Topics:
+
+Scope
+Compiler
+IIFE
+Hoisting
+Scopes
+Closures
+Module Patterns
+Prototype
+Inheritance
+Async Patterns
+Offline Training/Reverse KT meeting
+
+References:
+
+Refer to any one of the following courses:
+https://app.pluralsight.com/library/courses/advanced-javascript/table-of-contents
+https://frontendmasters.com/courses/javascript-hard-parts-v2
+Debounce vs Throttling: https://www.youtube.com/watch?v=tJhA0DrH5co&t=570s 
+JavaScript Promises: https://www.youtube.com/watch?v=DHvZLI7Db8E&t=596s 
+Async vs Defer: https://www.youtube.com/watch?v=BMuFBYw91UQ 
+Object-Oriented Programming Using JavaScript: https://youtu.be/4l3bTDlT6ZI 
+Additional References:
+
+https://www.udemy.com/course/advanced-javascript-concepts/
+
