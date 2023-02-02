@@ -42,4 +42,9 @@ const doub = n.map(function db(n) {
     return n * 2;
 })
 
-console.log(doub)
+
+const trip = n.map((n)=> {
+    return n * 3;
+})
+
+console.log(trip)
